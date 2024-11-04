@@ -1,9 +1,12 @@
-* I've 1.5+ year of experience in software development as Full Stack Dotnet developer with hands-on exercises and projects.
-* Good understanding and experience in C#, ASP.NET Core, MVC, Entity Framework, Internet Information Services (IIS), Microsift Technologies, HTML, CSS, JSMS SQL Query 2018, Moody's Financial service, banking domain, etc.
-* Supported Client during development, deployment, and production elevation phases.
-* Good debugging skills for programming language code.
-* Good communication sills with the ability to work in a dynamic environment, capability to grasp new concepts & proven ability to handle multiple tasks.
+# .NET Developer | Passionate about building efficient, scalable solutions
 
+🚀 Software Engineer
+📈 Interested in frontend and backend development.  
+💻 Experienced in .NET Framework, ASP.NET, MVC, Web API, ADO.NET, Entity Frameowrk, LINQ, C#, MS SQL Server
+📚 Lifelong learner exploring Snowflake, database optimization, and .NET best practices  
+
+
+I’m passionate about building impactful projects and contributing to the developer community. Always open to collaboration, feedback, and new ideas—let’s connect and create something remarkable together!
 
 
 

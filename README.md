@@ -1,9 +1,9 @@
 # Hello I'm Sachin
 
-🚀 Software Engineer
-📈 Interested in frontend and backend development.  
-💻 Experienced in .NET Framework, ASP.NET, MVC, Web API, ADO.NET, Entity Frameowrk, LINQ, C#, MS SQL Server, etc.
-📚 Lifelong learner exploring Snowflake, database optimization, and .NET best practices.
+🚀 Software Engineer <br />
+📈 Interested in frontend and backend development.  <br />
+💻 Experienced in .NET Framework, ASP.NET, MVC, Web API, ADO.NET, Entity Frameowrk, LINQ, C#, MS SQL Server, etc. <br />
+📚 Lifelong learner exploring Snowflake, database optimization, and .NET best practices. <br />
 
 I’m passionate about building impactful projects and contributing to the developer community. Always open to collaboration, feedback, and new ideas—let’s connect and create something remarkable together!
 
@@ -32,10 +32,10 @@ I’m passionate about building impactful projects and contributing to the devel
 
 ### 📊 GitHub Stats
 
-![Sachin's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical" alt="Top Languages" height="165">
+</p>
 
 <!---
 Sachin10-05/Sachin10-05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
